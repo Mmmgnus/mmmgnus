@@ -13,6 +13,7 @@ I’m a front-end developer building inclusive UIs for the web.
 
 ## 🌱 I’m currently learning
 - React, Vue.
+- Git commit message convention
 
 All my learning is stored in my digital notebok at https://magnus.dev/readme
 
