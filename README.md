@@ -13,8 +13,6 @@ I’m a front-end developer building inclusive UIs for the web.
 
 ## 🌱 I’m currently learning
 - React, Vue.
-- Rollup, Snowpack.
-- Sockets, sending big chunk of data.
 
 All my learning is stored in my digital notebok at https://magnus.dev/readme
 
