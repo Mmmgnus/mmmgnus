@@ -12,8 +12,7 @@ I’m a front-end developer building inclusive UIs for the web.
 - Agile mindset
 
 ## 🌱 I’m currently learning
-- React, Vue.
-- Git commit message convention
+- Web components
 
 All my learning is stored in my digital notebok at https://magnus.dev/readme
 
