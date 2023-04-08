@@ -1,4 +1,4 @@
-![I’m a front-end developer building inclusive UIs for the web.](https://github.com/mfredlundh/mfredlundh/blob/master/message.png?raw=true)
+![I’m a front-end developer building inclusive UIs for the web.](https://github.com/mfredlundh/mfredlundh/blob/master/cover-image.png?raw=true)
 
 # Hi, I'm Magnus 👋
 
