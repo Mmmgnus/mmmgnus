@@ -2,9 +2,6 @@
 
 # Hi, I'm Magnus 👋
 
-I’m a front-end developer building inclusive UIs for the web.
-
-
 ## 🧭 My focus and direction
 - Write code others understand.
 - Testing
