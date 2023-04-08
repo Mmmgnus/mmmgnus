@@ -1,9 +1,6 @@
-![Illustration of me sitting in a cardboard box](https://github.com/mfredlundh/mfredlundh/blob/master/message.png?raw=true)
-
 # Hi, I'm Magnus 👋
 
-I’m a front-end developer building inclusive UIs for the web.
-
+![I’m a front-end developer building inclusive UIs for the web.](https://github.com/mfredlundh/mfredlundh/blob/master/message.png?raw=true)
 
 ## 🧭 My focus and direction
 - Write code others understand.
