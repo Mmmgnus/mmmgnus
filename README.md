@@ -10,6 +10,7 @@
 
 ## 🌱 I’m currently learning
 - Web components
+- Design tokens
 
 All my learning is stored in my digital notebok at https://magnus.dev/readme
 
