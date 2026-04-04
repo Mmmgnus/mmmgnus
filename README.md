@@ -10,12 +10,12 @@
 
 ## 🌱 I’m currently learning
 - Web components
-- Design tokens
+- AI agents
 
 All my learning is stored in my digital notebok at https://magnus.dev/readme
 
 ## 🔭 I’m currently working on
-External site for the dance group JELNEK (Vue, Nuxt.js)
+Tooling for design systems.
 
 <!--
 **mfredlundh/mfredlundh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
