@@ -15,7 +15,7 @@
 All my learning is stored in my digital notebok at https://magnus.dev/readme
 
 ## 🔭 I’m currently working on
-Tooling for design systems.
+Language Server for design systems (components, tokens and utilities)
 
 <!--
 **mfredlundh/mfredlundh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
